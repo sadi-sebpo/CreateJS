@@ -1,0 +1,14 @@
+/************* Common code ***********/
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400);
+
+* {
+    font-family: "Lato";
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: medium none;
+}
+
